@@ -32,8 +32,10 @@ Clase de documento en el archivo ```main.tex```   https://ctan.org/topic/class
 #### Archivo que contenga los paquetes
 Crear archivo ```paquetes.sty```
 
+LLamada de paquetes: ``` \usepackage{nombreDelPaquete}```
+
 #### Paquetes
-*  ```inputenc``` a partir de lo que aparece en la página https://ctan.org/pkg/inputenc
+*  ```inputenc``` a partir de lo que aparece en la página https://ctan.org/pkg/inputenc  ``` \usepackage[utf8]{inputenc} ```
 *  Idiomas –``` babel```
 *  Separación de palabras – ```hypenat```
 *  Soporte de gráficos – ```graphicx ```
