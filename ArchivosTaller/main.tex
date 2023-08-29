@@ -1,0 +1,29 @@
+\documentclass[12pt, letterpaper]{report}
+%\documentclass[12pt, letterpaper]{article}
+
+\usepackage{paquetes}
+
+\renewcommand{\thesection}{\arabic{section}} %cambia la numeración de las subsecciones
+
+\begin{document}
+\include{portada_report}
+%\include*{portada_article}
+
+%\include{cap1}
+%\include{cap2}
+%\include{cap3}
+\begin{multicols}{2}
+\include*{cap1}
+\end{multicols}
+\include*{cap2}
+\include*{cap3}
+
+% Estilo de bibliografía
+\bibliographystyle{apalike}
+
+%Incluir bibliografía
+\bibliography{referencias}
+
+
+
+\end{document}

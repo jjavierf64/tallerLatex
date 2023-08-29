@@ -1,0 +1,55 @@
+%Idioma
+\usepackage[spanish, mexico]{babel} 
+\usepackage[T1]{fontenc} %símbolos
+
+%Fuente - Explicar y colocar
+%\usepackage[default,scale=0.95]{opensans} % fuente recomendada
+
+%Explicar paquete para colocar código
+%https://www.overleaf.com/learn/latex/Code_Highlighting_with_minted
+
+%separación de letras
+\usepackage{hyphenat}
+\hyphenation{mate-máti-cas recu-perar}
+
+%texto de relleno
+%https://www.blindtextgenerator.com/es
+%\usepackage{lipsum}
+
+%incluir sin dejar espacios
+\usepackage{newclude} 
+
+%soporte para gráficos
+\usepackage{graphicx} 
+
+%Quitar sangría
+%http://elclubdelautodidacta.es/wp/2012/07/latex-controlando-la-indentacion-de-los-parrafos/
+\setlength{\parindent}{0cm}
+
+%Tipos de viñeta
+\usepackage{enumerate}
+
+%paquete de ecuaciones
+\usepackage{amssymb, amsmath}
+
+%hipervínculos
+%\usepackage{hyperref}
+\usepackage[hidelinks]{hyperref}
+
+%línea gruesa para tablas
+\usepackage{booktabs}
+
+%Paquete SI
+\usepackage{siunitx}
+\sisetup{uncertainty-mode = separate} %habilitar notación incertidumbre
+%https://mirrors.ucr.ac.cr/CTAN/macros/latex/contrib/siunitx/siunitx.pdf
+
+%Paquete bibliografía
+\usepackage{natbib}
+
+%Paquetes para código
+\usepackage[ruled,vlined,lined, spanish, onelanguage]{algorithm2e}
+\usepackage{minted}
+
+%Columnas
+\usepackage{multicol}
