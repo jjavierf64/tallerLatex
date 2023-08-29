@@ -95,4 +95,5 @@ Materiales de Referencia:
 * https://www.overleaf.com/learn
 * https://www.overleaf.com/learn/latex/Tutorials
 * https://ctan.org/
+* https://tablegenerator.com/
 
