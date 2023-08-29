@@ -52,6 +52,12 @@ LLamada de paquetes: ``` \usepackage{nombreDelPaquete}```
 Archivo ```cap_1.tex```
 
 Secciones, subsecciones, subsubsecciones, cursiva, subrayado y resaltado.
+``` \section{} ``` 
+``` \subsection{} ``` 
+``` \subsubsection{} ``` 
+``` \textit{} ``` 
+``` \textbf{} ``` 
+``` \underline{} ``` 
 
 
 ### 5. Entornos
