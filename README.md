@@ -67,5 +67,24 @@ Archivo referencias.bib
 
 
 
+# Referencias y Material Extra
 
+El taller solucionado queda en https://www.overleaf.com/read/bjznchytszzc
+
+Plantillas:
+ 
+* Plantilla Básica   https://www.overleaf.com/read/zhbqdrzxvqry
+* Plantilla Informes ITCR   https://www.overleaf.com/read/smyxxgptpzjn
+* Plantilla Lab de Óptica   https://www.overleaf.com/read/jfvstrpnjdkf
+* Artículo de Investigación en *Journal of Optical Communications and Networking*   https://www.overleaf.com/read/wwsnqkfrgrmv
+* Currículum Vitae   https://www.overleaf.com/read/ydfbhzgbzbqf
+* Presentación en Diapositivas   https://www.overleaf.com/read/gfqhtstdrhbw
+* Otro Conjunto de Plantillas recopiladas por Julian Sánchez: https://drive.google.com/drive/folders/1UfIe80Pqd89Xs1Bf00_MPdJapj-v97II 
+
+
+Materiales de Referencia:
+
+* https://www.overleaf.com/learn
+* https://www.overleaf.com/learn/latex/Tutorials
+* https://ctan.org/
 
